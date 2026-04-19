@@ -1,0 +1,4 @@
+.env.litellm
+litellm.config.yaml
+litellm.db
+*.db
